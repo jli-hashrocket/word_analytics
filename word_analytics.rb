@@ -1,4 +1,3 @@
-require 'pry'
 
 class WordAnalytics
   def initialize(input)
